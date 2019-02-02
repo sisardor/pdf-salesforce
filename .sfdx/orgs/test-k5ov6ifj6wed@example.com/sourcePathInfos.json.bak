@@ -1,0 +1,151 @@
+[
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1549072895261,
+            "changeTime": 1549072895261,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1549072895261,
+            "changeTime": 1549072895261,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1549072895261,
+            "changeTime": 1549072895261,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1549072895261,
+            "changeTime": 1549072895261,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1549073747796,
+            "changeTime": 1549073747796,
+            "contentHash": "5395ebfd174b0a5617e6f409dfbb3e064e3fdf0a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc/helloWorld",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc/helloWorld",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1549073747797,
+            "changeTime": 1549073747797,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc/helloWorld/helloWorld.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc/helloWorld/helloWorld.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 348,
+            "modifiedTime": 1549074325100,
+            "changeTime": 1549074325100,
+            "isWorkspace": false,
+            "contentHash": "89ebabf9e98c24cb9fcacd440f8f061b96cf5a5b"
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc/helloWorld/helloWorld.js",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc/helloWorld/helloWorld.js",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1549073786281,
+            "changeTime": 1549073786281,
+            "contentHash": "a79c4ee4210b9818fa4731b8b955e6d8bbbd88ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc/helloWorld/helloWorld.js-meta.xml",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world/force-app/main/default/lwc/helloWorld/helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 653,
+            "modifiedTime": 1549073799236,
+            "changeTime": 1549073799236,
+            "contentHash": "9f886a8bc7339009e7256eb5059aec8f74e76dec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/zeromax/sfdx_projects/lwc-hello-world",
+        {
+            "sourcePath": "/Users/zeromax/sfdx_projects/lwc-hello-world",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1549072911211,
+            "changeTime": 1549072911211,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
